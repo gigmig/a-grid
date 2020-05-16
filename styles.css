@@ -1,0 +1,27 @@
+.grid-container{
+}
+.cell{
+	border: 1px solid black;
+    margin: 1px;
+    height: 30px;
+    display: inline-block;
+    width: 40px;
+}
+.letters-container{
+	float: left;
+	margin-right: 5px;
+}
+.numbers{
+	/*border: none;
+    margin-left: 0px;
+    padding-inline-end: 3px;*/
+    vertical-align: top;
+    border: 1px solid white;
+}
+.letters{
+    vertical-align: bottom;
+    border: 1px solid white;
+    /*border: none;
+    margin-left: 0px;
+    padding-inline-end: 3px;*/
+}
